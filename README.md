@@ -1,8 +1,8 @@
 ## Projeto WeekAway ⛰️🏝️🧳🛫
 
-![alt text]()
+![alt text](/project.png)
 ---
-Acesse aqui [WeekAway](https://trybetunes-vn.netlify.app/) ✅
+Acesse aqui [WeekAway](https://weekaway-vn.netlify.app/) ✅
 
 ---
 ### 💡 Proposta:
